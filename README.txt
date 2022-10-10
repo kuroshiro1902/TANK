@@ -1,0 +1,3 @@
+-Xoay vat the khong can load anh khac
+-Chi nhan 1 keypress tu ban phim
+-Xay dung noi an nap (dung trong noi an nap khong the ban )
